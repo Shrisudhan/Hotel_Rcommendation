@@ -1,1 +1,1 @@
-# Hotel_Rcommendation
+The repository focuses on hotel cluster prediction with the customer details based on the Kaggle Expedia Hotel Recommendation dataset. Various implementations of tree classifiers, SVMs and linear classifiers are available in the notebook along with the prediction accuracies for each of these methodologies. 
